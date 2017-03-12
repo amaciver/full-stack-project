@@ -10,8 +10,7 @@
 ## Minimum Viable Product
 
 CouchSmurfing is a web application inspired by CouchSurfing built using Ruby on Rails
-and React/Redux.  By the end of Week 9, this app will, at a minimum, satisfy the
-following criteria with smooth, bug-free navigation, adequate seed data and
+and React/Redux. Users can book stays with all their favorite characters from 1980s cartoons, grouped by kingdom or realm. Smurfs, He-Man, Thundercats, G.I.Joe, Care Bears, and more. By the end of Week 9, this app will, at a minimum, satisfy the following criteria with smooth, bug-free navigation, adequate seed data and
 sufficient CSS styling:
 
 - [ ] Hosting on Heroku
