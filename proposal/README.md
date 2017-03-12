@@ -16,9 +16,9 @@ sufficient CSS styling:
 
 - [ ] Hosting on Heroku
 - [ ] New account creation, login, and guest/demo login
-- [ ] Spots
+- [ ] Hosts
 - [ ] Bookings
-- [ ] Spots search (by location & availability) & Google Maps on search
+- [ ] Hosts search (by location & availability) & Google Maps on search
 - [ ] Reviews
 - [ ] [Production README](docs/production_readme.md)
 
@@ -41,27 +41,29 @@ sufficient CSS styling:
 
 **Objective:** Functioning rails project with front-end Authentication
 
-### Phase 2: Spots Model, API, and components (2 days)
+### Phase 2: Hosts Model, API, and components (2 days)
 
-**Objective:** Spots can be created, read, edited and destroyed through
-the API. Spots can be populated to the page and scrolled through.
+**Objective:** Hosts can be created, read, edited and destroyed through
+the API. Hosts can be populated to the page and scrolled through.
 
-### Phase 3: Details and Bookings (2 days)
+### Phase 3: Details and Requests (2 days)
 
-**Objective:** Spots can be clicked in for details. Spots can be booked for range of dates.
+**Objective:** Hosts can be clicked in for details. Hosts can be
+requested for range of dates.
 
-### Phase 4: Search (2 days)
+### Phase 4: Host Filter (2 days)
 
-**Objective:** Spots can be searched by location and other criteria and use the GoogleMaps API.
+**Objective:** Hosts can be filtered by date and other criteria and be
+selected through the GoogleMaps API.
 
 ### Phase 5: Reviews (1 day, W2 Th 6pm)
 
-**Objective:** Spots can have reviews left on them and persisted to the DB.
+**Objective:** Hosts can have reviews left on them and persisted to the DB.
 
 ### Phase 6: - Fix issues, finish styling (1 day, W2 F 6pm)
 
-**Objective:** Add infinite scroll to Notes Index
+**Objective:** Finish all pending tasks.
 
 ### Bonus Features (TBD)
 - [ ] Messaging
-- [ ] User/Host profiles
+- [ ] User profiles
