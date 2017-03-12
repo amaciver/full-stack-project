@@ -37,24 +37,26 @@ sufficient CSS styling:
 
 ## Implementation Timeline
 
-### Phase 1: Backend setup and Front End User Authentication (2 days)
+### Phase 1: Backend setup and Front End User Authentication, Setup Grids and Routes (2 days)
 
-**Objective:** Functioning rails project with front-end Authentication
+**Objective:** Functioning rails project with front-end Authentication. Setup Grids and Routes.
 
-### Phase 2: Hosts Model, API, and components (2 days)
+### Phase 2: Landing Page, Hosts Model, Cities Model, API, and components (2 days)
 
-**Objective:** Hosts can be created, read, edited and destroyed through
-the API. Hosts can be populated to the page and scrolled through.
+**Objective:** Hosts and Cities can be created, read, edited and destroyed through
+the API. Hosts can be populated to Cities through the API. Landing page with
+splash graphics and Top Destinations (Cities).
 
-### Phase 3: Details and Requests (2 days)
+### Phase 3: User Homepage, City Search and View with Host Filtering (2 days)
 
-**Objective:** Hosts can be clicked in for details. Hosts can be
-requested for range of dates.
-
-### Phase 4: Host Filter (2 days)
-
-**Objective:** Hosts can be filtered by date and other criteria and be
+**Objective:** User Homepage shows selection of cities. Cities can be searched from navbar.
+City view shows Hosts and Map. Hosts can be filtered by date and other criteria and be
 selected through the GoogleMaps API.
+
+### Phase 4: Details and Requests (2 days)
+
+**Objective:** Hosts can be clicked in for details. Details view shows Host profile.
+Hosts can be requested for range of dates with modal.
 
 ### Phase 5: Reviews (1 day, W2 Th 6pm)
 
